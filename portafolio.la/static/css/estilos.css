@@ -261,10 +261,10 @@
 	display: inline-block;
 	width: 40%;
 	vertical-align: top;
-
 }
 /* .Footer-textarea{ resize:none;} */
 .Footer-title
 {
 	color: white;
+	margin: 0 auto 1em auto;
 }
