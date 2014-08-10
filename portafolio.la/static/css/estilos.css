@@ -231,6 +231,10 @@
 	position: relative;
 	height: 245px;
 }
+.Work-imageContainer-container:hover .Work-imageDetail
+{
+	display: block;
+}
 
 /* Footer */
 .Footer
