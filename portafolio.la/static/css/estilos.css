@@ -63,10 +63,18 @@
 	border: 6px solid white;
 	border-radius: 50%;
 }
-.Header-image:hover
+.Header-imageLink
 {
-	border: 6px solid orange;
-	-webkit-transition: 1s;
+	display: inline-block;
+	vertical-align: 150%;
+}
+.Header-imageLink:first-child
+{
+	padding-right: 2em;
+}
+.Header-imageLink:last-child
+{
+	padding-left: 2em;
 }
 .Header-imageContainer
 { 
