@@ -341,7 +341,9 @@
 	}
 	.Profile-link
 	{
-	    display: block;
+		display: block;
+		width: 250px;
+		margin: .5em auto;
 	}
 	.Profile-listItem
 	{
@@ -350,7 +352,7 @@
 		vertical-align: top;
 		margin: 1.2em 1em 0 0;
 	}
-		.Footer-container
+	.Footer-container
 	{
 		width: 100%;
 		margin: 0 auto;
